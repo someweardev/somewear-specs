@@ -1,2 +1,2 @@
-# specs
+# somewear-specs
 Somewear CocoaPods Specs
