@@ -1,0 +1,2 @@
+# specs
+Somewear CocoaPods Specs
